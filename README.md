@@ -12,33 +12,36 @@ Hope you enjoy it.
 P. S: Language that used in this site is Persian.
 
 ## How to run 🚀
+
 1- Install [Node.js](Nodejs.org)
 
-2- Install all requirements from frontend folder with command below
+2- Download [Frontend](https://quera.ir/qbox/download/w5FDDhTEQe/djang_front-master.zip) folder
+
+3- Install all requirements from frontend folder with command below
 
 ```
 npm install
 ```
 
-3- Run frontend
+4- Run frontend
 
 ```bash 
 npm start
 ```
 
-4- Install virtualenv
+5- Install virtualenv
 
 ```
 pip install virtualenv
 ```
 
-5- Make virtualenv
+6- Make virtualenv
 
 ```
 virtualenv venv
 ```
 
-6- Activate it
+7- Activate it
 
 Linux/macOS :
 
@@ -52,19 +55,19 @@ Windows :
 ./venv/scripts/activate
 ```
 
-7- Install requirements
+8- Install requirements
 
 ```
 pip install -r requirements.txt
 ```
 
-5- Run backend with runserver command
+9- Run backend with runserver command
 
 ```
 python manage.py runserver
 ```
 
-6- Go to [localhost:3000](localhost:3000)
+10- Go to [localhost:3000](localhost:3000)
 
 if you need username and password for login use this:
 
