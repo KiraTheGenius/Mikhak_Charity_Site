@@ -10,22 +10,22 @@ P. S: Language that used in this site is Persian.
 # How to run
 1- Install Node.js (Nodejs.org)
 2- Install all requirements from frontend folder with npm install
-`npm install`
+```npm install```
 3- Run frontend 
-`npm start `
+```npm start ```
 4- Install virtualenv
-`pip install virtualenv`
+```pip install virtualenv```
 5- Make virtualenv
-`virtualenv venv`
+```virtualenv venv```
 6- Activate it
 Linux/macOS :
-`source venv/bin/activate`
+```source venv/bin/activate```
 Windows :
-`./venv/scripts/activate`
+```./venv/scripts/activate```
 7- Install requirements
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 5- Run backend with runserver command
-`python manage.py runserver`
+```python manage.py runserver```
 6- Go to localhost:3000
 
 if you need username and password for login use this
