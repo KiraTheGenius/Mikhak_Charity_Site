@@ -14,7 +14,7 @@ P. S: Language that used in this site is Persian.
 
 ## How to run 🚀
 
-1. Install [Node.js](Nodejs.org), python3, pip3, virtualenv in your system.
+1. Install Node.js, python3, pip3, virtualenv in your system.
 2. Download [Frontend](https://quera.ir/qbox/download/w5FDDhTEQe/djang_front-master.zip) folder
 3. Install all requirements from frontend folder using `npm install`
 4. Run frontend `npm start`
