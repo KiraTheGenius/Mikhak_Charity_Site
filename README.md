@@ -1,7 +1,9 @@
+![Screenshot (157)](https://user-images.githubusercontent.com/71660691/164433465-33c52a0e-081f-4148-9887-86de9b943e50.png)
+
 # Volunteering Charity Site 
 Hello,
 
-This project is about site that you can accept volunteering task to help people,
+This project is about a site that you can accept volunteering task to help people,
 
 Charities create Task and post in on site and every person can choose from them and try to do that Task.
 
