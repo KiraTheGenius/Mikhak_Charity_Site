@@ -13,61 +13,16 @@ P. S: Language that used in this site is Persian.
 
 ## How to run 🚀
 
-1- Install [Node.js](Nodejs.org)
-
-2- Download [Frontend](https://quera.ir/qbox/download/w5FDDhTEQe/djang_front-master.zip) folder
-
-3- Install all requirements from frontend folder with command below
-
-```
-npm install
-```
-
-4- Run frontend
-
-```bash 
-npm start
-```
-
-5- Install virtualenv
-
-```
-pip install virtualenv
-```
-
-6- Make virtualenv
-
-```
-virtualenv venv
-```
-
-7- Activate it
-
-Linux/macOS :
-
-```
-source ./venv/bin/activate
-```
-
-Windows :
-
-```
-./venv/scripts/activate
-```
-
-8- Install requirements
-
-```
-pip install -r requirements.txt
-```
-
-9- Run backend with runserver command
-
-```
-python manage.py runserver
-```
-
-10- Go to [localhost:3000](localhost:3000)
+1. Install [Node.js](Nodejs.org), python3, pip3, virtualenv in your system.
+2. Download [Frontend](https://quera.ir/qbox/download/w5FDDhTEQe/djang_front-master.zip) folder
+3. Install all requirements from frontend folder using `npm install`
+4. Run frontend `npm start`
+5. Clone the project `git clone https://github.com/ruasoft/Volunteering_Charity_Site.git`
+6. Create a virtualenv named venv using `virtualenv -p python3 venv`
+7. Connect to virtualenv using `source venv/bin/activate`
+8. From the project folder, install packages using `pip install -r requirements.txt`
+9. Run backend usuing`python manage.py runserver`
+10. Go to [localhost:3000](localhost:3000)
 
 if you need username and password for login use this:
 
