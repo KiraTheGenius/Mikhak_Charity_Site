@@ -1,4 +1,3 @@
-![Screenshot (157)](https://user-images.githubusercontent.com/71660691/164433713-432777fa-eacc-4616-9ae9-21848e50a7e1.png)
 # Volunteering Charity Site 🌐
 Hello,
 
